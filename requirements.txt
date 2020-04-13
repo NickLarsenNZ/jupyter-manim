@@ -1,1 +1,1 @@
-jupyter-manim==1.1
+jupyter-manim==1.2
